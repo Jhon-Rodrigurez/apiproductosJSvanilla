@@ -1,5 +1,5 @@
 const API= "http://localhost:8080"
-const OBTENERPRODUCTO_GET_ENDPOINT= API + "/producto"
+const OBTENERPRODUCTO_GET_ENDPOINT= API + "/producto";
 
 const obtener= async (producto)=>{
     console.log(producto)
